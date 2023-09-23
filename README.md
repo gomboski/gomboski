@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+#### I am a curious data scienstist, recently graduated from Le Wagon's Data Science Bootcamp.📚
+
+#### My most recent project involved creating a cricket predictor model. 🏏
+
+## Technical Skills
+
+- Python
+- R
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Data Visualization
+- SQL
+
+## Contact
+
+- Email: matheusgomboski@hotmail.com
+- LinkedIn: www.linkedin.com/in/mgomboski
+
+
+
+
+
 <!--
 **gomboski/gomboski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
