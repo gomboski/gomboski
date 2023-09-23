@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-#### I am a curious data scienstist, recently graduated from Le Wagon's Data Science Bootcamp.📚
+- I am a curious data scientist, recently graduated from Le Wagon's Data Science Bootcamp.📚
 
-#### My most recent project involved creating a cricket predictor model. 🏏
+- 🔭 My most recent project involved creating a cricket predictor model. 🏏  [https://iplpredictionmodel.streamlit.app/](https://iplpredictionmodel.streamlit.app/)
+  
+- 📫 How to reach me -> **matheusgomboski@hotmail.com**
 
 ## Technical Skills
 
@@ -13,13 +15,6 @@
 - Deep Learning
 - Data Visualization
 - SQL
-
-## Contact
-
-- Email: matheusgomboski@hotmail.com
-- LinkedIn: www.linkedin.com/in/mgomboski
-
-
 
 
 
